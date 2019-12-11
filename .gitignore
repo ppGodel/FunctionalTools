@@ -8,3 +8,4 @@ tmp/
 *.egg-info
 build
 htmlcov
+*/__pycache__/*

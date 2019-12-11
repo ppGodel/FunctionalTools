@@ -7,7 +7,7 @@ setup(
     author="Jose hdz",
     author_email="jhernandez.sld@gmail.com",
     description=("Tools for fp"),
-    py_modules=["src"],
+    py_modules=["FunctionalTools"],
     license="MIT",
     keywords="python functional programming",
     url="http://github.com/ppgodel/FunctionalTools",
